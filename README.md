@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Snake Water Gun Game 🐍💧🗿
+# Snake Water Gun Game
 
 A simple Python CLI game inspired by rock-paper-scissors.
 
